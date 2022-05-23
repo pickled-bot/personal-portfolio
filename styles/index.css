@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nobile&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+
 html {
     background-color:#cbb1d4;
 }
@@ -19,8 +20,10 @@ h1 {
 
     color: #24917C;
     font-family: Zen Maru Gothic;
+    font-size: calc(20px + 0.8vh);
+
     background-color: #9ec1b5;
-    background-image:url(assets/fireweed_d80.jpg);
+    background-image:url(https://live.staticflickr.com/65535/52092876134_2476068888_k.jpg);
     background-position-x: 40%;
     background-position-y: center;
 
