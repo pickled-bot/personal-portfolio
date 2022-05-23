@@ -78,6 +78,10 @@ a:hover {
     display: block;
 }
 
+body a:hover{
+    letter-spacing: 0.25vw;
+}
+
 #project-display {
     display: grid;
     border: 1px dotted ;
