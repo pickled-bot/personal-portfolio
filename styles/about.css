@@ -77,8 +77,11 @@ main {
 }
 
 main img {
-    max-width: 25vw;
+    max-width: 30vw;
     flex: 2;
+}
+span img {
+    max-width: 10vw;
 }
 
 main h2 {
@@ -93,6 +96,7 @@ main div  {
     flex: 4;
     font-size:calc(12px +0.8vw);
 }
+
 
 main h3 {
     text-align: center;
