@@ -65,8 +65,6 @@ nav li {
 
 
 
-
-
 main {
     display: flex;
     flex-direction: row-reverse;
@@ -81,7 +79,7 @@ main img {
     flex: 2;
 }
 span img {
-    max-width: 10vw;
+    max-width: 15vw;
 }
 
 main h2 {
